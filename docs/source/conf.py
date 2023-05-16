@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Autonobots Wiki'
+copyright = '2023, EE Autonobots Club at UTA'
+author = 'EE Autonobots Club at UTA'
 
 release = '0.1'
 version = '0.1.0'
