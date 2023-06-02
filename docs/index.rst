@@ -28,7 +28,7 @@ Contents
    :maxdepth: 1
    :caption: Lecture Tutorials
 
-   Lecture 1: Intro to Linux & Ubuntu <1-intro-to-linux-ubuntu>
+   Lecture 1: Intro to Linux & Ubuntu <lectures/1-intro-to-linux-ubuntu>
    Lecture 2: Intro to ROS <2-intro-to-ros>
    Lecture 3: Intro to ROS (cont.) <3-intro-to-ros-cont>
    Lecture 4: ROS Topics and more <4-ros-topics>
