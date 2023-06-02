@@ -37,4 +37,4 @@ epub_show_urls = 'footnote'
 
 # because apparently read the docs makes this different from sphinx default
 # https://github.com/readthedocs/readthedocs.org/issues/2569
-master_doc = 'index'
+root_doc = 'index'
