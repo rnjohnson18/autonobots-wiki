@@ -17,3 +17,25 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Club Information
+
+   About Autonobots <about-autonobots>
+   About UTA <about-uta>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Lecture Tutorials
+
+   Lecture 1: Intro to Linux & Ubuntu <1-intro-to-linux-ubuntu>
+   Lecture 2: Intro to ROS <2-intro-to-ros>
+   Lecture 3: Intro to ROS (cont.) <3-intro-to-ros-cont>
+   Lecture 4: ROS Topics and more <4-ros-topics>
+   Lecture 5: Building & Running ROS Nodes directory <5-ros-nodes>
+   Lecture 6: Waypoint Proportional Controller <6-waypoints-prop-control>
+   Lecture 7: 3D Simulation in Gazebo <7-gazebo-3d-simulation>
+   Lecture 8: TurtleBot 3D Simulation with Gazebo, Navigation, & Waypoints <8-turtlebot-navigation>
+   Lecture 9: Hercules Rover Serial Motor Control <9-hercules-serial-motor-control>
+   Lecture 10: Hexapod Serial Motor Control <10-hexapod-serial-motor-control>
+   Lecture 11: Intro to Git <11-intro-to-git>
